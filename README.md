@@ -1,6 +1,6 @@
 Hi, I'm Alex.
 
-I'm an 18-year-old researcher building AI solutions for healthcare, particularly focused on neurodegenerative diseases.
+I'm an 18-year-old researcher
 
 Research interests
 - Knowledge graphs for memory representation
@@ -8,4 +8,4 @@ Research interests
 
 How to reach me
 - Email: alex@reteena.org
-- LinkedIn: 🔗 view-link.cx/Gdf_xFg0sBJ
+- LinkedIn: [🔗 view-link.cx/Gdf_xFg0sBJ](https://www.linkedin.com/in/alexyango/)
