@@ -8,4 +8,4 @@ Research interests
 
 How to reach me
 - Email: alex@reteena.org
-- LinkedIn: [🔗 view-link.cx/Gdf_xFg0sBJ](https://www.linkedin.com/in/alexyango/)
+- LinkedIn: [profile link](https://www.linkedin.com/in/alexyango/)
