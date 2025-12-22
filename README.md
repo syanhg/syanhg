@@ -4,7 +4,7 @@ I'm an 18-year-old researcher
 
 Research interests
 - Knowledge graphs for memory representation
-- AI-assisted healthcare diagnostics
+- AI-assisted healthcare and diagnostics
 
 How to reach me
 - Email: alex@reteena.org
