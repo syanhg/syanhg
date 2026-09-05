@@ -4,5 +4,4 @@
 
 Seungyong Yang  
 
-https://alxyang.com/  
-https://www.linkedin.com/in/seungyong12/
+hi i build https://mony.company/
